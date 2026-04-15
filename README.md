@@ -1,3 +1,3 @@
 ## 🎥 Démonstration
 
-[Regarder la vidéo de démonstration](https://www.youtube.com/shorts/qVDmrpe4qqM)
+[![App démo](screenshots/demo.jpg)](https://www.youtube.com/shorts/qVDmrpe4qqM)
