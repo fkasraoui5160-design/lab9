@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appli android (php)</string>
+    <string-array name="villes">
+        <item>Rabat</item>
+        <item>Casablanca</item>
+        <item>Marrakech</item>
+        <item>Tanger</item>
+        <item>Fès</item>
+    </string-array>
+</resources>
